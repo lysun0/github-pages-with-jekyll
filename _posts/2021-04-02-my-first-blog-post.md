@@ -1,3 +1,3 @@
-title: "HELLO-WORLD"
+title: "Welcome to my blog"
 date: 2021-4-2
 hello world
